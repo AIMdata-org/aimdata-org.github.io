@@ -31,10 +31,8 @@ Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El S
 
 Data analyst and disaster management expert. Armed conflict, complex emergencies and natural hazards. 
 
-This site showcases some of our projects. Our code and other projects may also be found in: 
-[Myanmar repositories](https://github.com/orgs/food-security-cluster-myanmar/repositories)
-[Syria repositories](https://github.com/orgs/northwest-syria-cash-working-group/repositories)
-[Kenya repositories](https://github.com/orgs/kenya-eie-wg/repositories)
+This site showcases some of our projects. Other code and projects may also be found here: [Myanmar repositories](https://github.com/orgs/food-security-cluster-myanmar/repositories), [Syria repositories](https://github.com/orgs/northwest-syria-cash-working-group/repositories)
+and [Kenya repositories](https://github.com/orgs/kenya-eie-wg/repositories)
 
 
 
