@@ -31,7 +31,12 @@ Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh, El S
 
 Data analyst and disaster management expert. Armed conflict, complex emergencies and natural hazards. 
 
-This site hosts some of our projects: 
+This site showcases some of our projects. Our code and other projects may also be found in: 
+[Myanmar repositories](https://github.com/orgs/food-security-cluster-myanmar/repositories)
+[Syria repositories](https://github.com/orgs/northwest-syria-cash-working-group/repositories)
+[Kenya repositories](https://github.com/orgs/kenya-eie-wg/repositories)
+
+
 
 <br><br><br>
 
@@ -54,7 +59,7 @@ This site hosts some of our projects:
 ### [Myanmar Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 1 June 2022. 
 
-[![./img/township_prioritisation.png](./img/township_prioritisation.png)](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/){width=50%}
+[![./img/township_prioritisation.png](./img/township_prioritisation.png)](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 
 <br><br><br>
 
@@ -76,19 +81,19 @@ Updated 1 June 2022.
 ### [Multi-sector Beneficiary Allocations and Cash-based Interventions in the Syria Cross-Border Response](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1) 
 19 May 2023
 
-[![./img/skew_tree.png](./img/skew_tree.png)](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1){width=50%}
+[![./img/skew_tree.png](./img/skew_tree.png)](https://northwest-syria-cash-working-group.github.io/multisector_4Ws_review/#1)
 
 <br><br><br>
 
 ### [Coverage and Gaps Analysis -- Education, Health, Nutrition, Protection and WASH Clusters, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
 
-[![./img/coverage_and_gaps.png](./img/coverage_and_gaps.png)](https://seanywng.github.io/coverage_gaps_venezuela/){width=50%}
+[![./img/coverage_and_gaps.png](./img/coverage_and_gaps.png)](https://seanywng.github.io/coverage_gaps_venezuela/)
 
 <br><br><br>
 
 ### [5W Cleaning Script](https://seanywng.github.io/5W/cleaning_5ws_english) and [Reporting Script](https://seanywng.github.io/5W/reporting_5ws_english) -- Education Cluster, Venezuela
 
-[![./img/cleaning_and_reporting.png](./img/cleaning_and_reporting.png)](https://seanywng.github.io/5W/cleaning_5ws_english){width=50%}
+[![./img/cleaning_and_reporting.png](./img/cleaning_and_reporting.png)](https://seanywng.github.io/5W/cleaning_5ws_english)
 
 <br><br><br><br><br>
 
@@ -96,25 +101,25 @@ Updated 1 June 2022.
 
 ### [A New Index of Refugee Protection 2018 -- a discussion note with Aldo Benini](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf)
 
-[![./img/protection_index.png](./img/protection_index.png)](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf){width=50%}
+[![./img/protection_index.png](./img/protection_index.png)](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf)
 
 <br><br><br>
 
 ### [Lessons Learnt on Assessments from the Rohingya Refugee Response 2018](https://www.dropbox.com/s/z859umvx6kmikm5/Lessons Learnt on Assessments 180525_SN.pdf?dl=0)
 
-[![./img/lessons_learnt.png](./img/lessons_learnt.png)](https://www.dropbox.com/s/z859umvx6kmikm5/Lessons Learnt on Assessments 180525_SN.pdf?dl=){width=50%}
+[![./img/lessons_learnt.png](./img/lessons_learnt.png)](https://github.com/AIMdata-org/aimdata-org.github.io/blob/main/Lessons%20Learnt%20on%20Assessments%20180525_SN.pdf)
 
 <br><br><br>
 
 ### [Vulnerability in Myanmar 2017 -- Secondary Data Review, Countrywide](https://themimu.info/sites/themimu.info/files/documents/Report_Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf)
 
-[![./img/vulnerability_in_myanmar.png](./img/vulnerability_in_myanmar.png)](https://themimu.info/sites/themimu.info/files/documents/Report_Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf){width=50%}
+[![./img/vulnerability_in_myanmar.png](./img/vulnerability_in_myanmar.png)](https://themimu.info/sites/themimu.info/files/documents/Report_Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf)
 
 <br><br><br>
 
 ### [Myanmar National Recovery Framework and Plan -- Floods and Landslides 2015](https://www.dropbox.com/s/iv975x39hzz9cye/National Recovery Framework Final-2.pdf?dl=0)
 
-[![./img/national_recovery_framework.png](./img/recovery_framework_priority_townships.png)](https://www.dropbox.com/s/iv975x39hzz9cye/National Recovery Framework Final-2.pdf?dl=0){width=50%}
+[![./img/national_recovery_framework.png](./img/recovery_framework_priority_townships.png)](https://github.com/AIMdata-org/aimdata-org.github.io/blob/main/National%20Recovery%20Framework%20Final-2.pdf)
 
 
 
